@@ -10,68 +10,14 @@ I am proficient in building automated, scalable, and resilient systems, and I ha
 
 ### 🛠️ Languages & Tools
 
-Here is a showcase of the technologies and tools I work with:
 
-#### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure-1.png" alt="Azure" title="Azure" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="50" height="50"/>
-</p>
-
-#### 🔄 DevOps & CI/CD
-<p>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/github-actions.png" alt="GitHub Actions" title="GitHub Actions" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab CI" title="GitLab CI" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" title="Prometheus" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" title="Grafana" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="SonarQube" title="SonarQube" width="50" height="50"/>
-</p>
-
-#### 💻 Programming & Backend
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" title="Spring Boot" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" title="Laravel" width="50" height="50"/>
-</p>
-
-#### 🗄️ Databases & Frontend
-<p>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" title="Angular" width="50" height="50"/>
-</p>
-
-#### ⛓️ Blockchain & Web3
-<p>
-  <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" alt="MetaMask" title="MetaMask" width="50" height="50"/>
-  <img src="https://hedera.com/assets/svg/brand-symbol/hbar-solid-glyph.svg" alt="Hedera Hashgraph" title="Hedera Hashgraph" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/ethereum/remix-ide/master/src/app/img/icon.png" alt="Remix IDE" title="Remix IDE" width="50" height="50"/>
-</p>
-
-#### 🛠️ Other Tools
-<p>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/1471768?s=48&v=4" alt="n8n" title="n8n" width="50" height="50"/>
-  <img src="https://robotframework.org/img/robot_framework_logo.png" alt="Robot Framework" title="Robot Framework" width="50" height="50"/>
-</p>
-
----
+<p align="center"> <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> <!-- Ubuntu --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50" /> <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" /> <!-- Flask --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="50" height="50" /> <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50" /> <!-- GitHub --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50" /> <!-- GitLab --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="50" height="50" /> <!-- Docker --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" /> <!-- Kubernetes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50" /> <!-- Azure --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="50" height="50" /> <!-- AWS --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="50" height="50" /> <!-- Java --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50" /> <!-- Spring --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="50" height="50" /> <!-- Terraform --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50" /> <!-- Angular --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50" /> <!-- MongoDB --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" /> <!-- Prometheus --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="50" height="50" /> <!-- Grafana --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="50" height="50" /> <!-- Jenkins --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50" /> <!-- Laravel --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50" /> <!-- MySQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" /> <!-- Pytest --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50" /> <!-- SonarQube --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="50" height="50" /> <br/> <!-- GitHub Actions --> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-actions" width="50" height="50" /> <!-- GitLab CI --> <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-rgb.svg" alt="gitlab-ci" width="50" height="50" /> <!-- RAG --> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="rag" width="50" height="50" /> <!-- MetaMask --> <img src="https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg" alt="metamask" width="50" height="50" /> <!-- Hedera --> <img src="https://hedera.com/assets/svg/brand-symbol/hbar-solid-glyph.svg" alt="hedera" width="50" height="50" /> <!-- Remix --> <img src="https://raw.githubusercontent.com/ethereum/remix-ide/master/src/app/img/icon.png" alt="remix" width="50" height="50" /> <!-- n8n --> <img src="https://avatars.githubusercontent.com/u/1471768?s=48&v=4" alt="n8n" width="50" height="50" /> <!-- Pylint --> <img src="https://raw.githubusercontent.com/PyCQA/pylint/main/doc/logo.png" alt="pylint" width="50" height="50" /> <!-- Robot Framework --> <img src="https://robotframework.org/img/robot_framework_logo.png" alt="robotframework" width="50" height="50" /> </p>
 
 ### 📫 Let's Connect!
 
 I am always open to discussing technology, potential project collaborations, or new opportunities.
 
 - **Email:** [tasnim.eleuch@enis.tn](mailto:tasnim.eleuch@enis.tn)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/your-profile-link) *(Please replace this with your actual LinkedIn URL)*
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tasnim-elleuch-6043a629a/) 
 
 ---
-
-> *"The only way to do great work is to love what you do." – Steve Jobs*
